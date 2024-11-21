@@ -8,7 +8,7 @@ sudo apt install build-essential
 
 Correr o codigo com ubunto
 
-gcc -o ouri ouri,c -lm -g
+gcc -o ouri ouri.c -lm -g
 ./ouri
 
 ---
